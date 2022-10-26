@@ -21,7 +21,7 @@
 *I am not the creator or maintainer of this container I am merely providing the Unraid template.</Overview>
 	<Category>HomeAutomation: Security: Tools: Other: Status:Stable</Category>
 	<WebUI>http://[IP]:[PORT:5000]</WebUI>
-	<TemplateURL>https://raw.githubusercontent.com/n8detar/docker-templates/master/n8detar/deepstack.xml</TemplateURL>
+	<TemplateURL>https://raw.githubusercontent.com/cflocation23/unraid-stable-diffusion/main/stable-diffusion.xml</TemplateURL>
 	<Icon>https://raw.githubusercontent.com/n8detar/docker-templates/master/n8detar/images/deepstack.png</Icon>
 	<ExtraParams/>
 	<PostArgs/>
